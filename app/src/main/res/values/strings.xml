@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScanToFuture</string>
+    <string name="scan_here">SCAN HERE</string>
+    <string name="hyperlink">
+        <a href="https://www.hacktofuture.in/">HackToFuture</a>
+    </string>
+</resources>
